@@ -1,0 +1,24 @@
+
+/*Selector de Tipo*/
+ul{
+    background-color: red;
+    color: white;
+}
+
+/*Selector de Clase*/
+.index{
+    background-color: blue;
+    color: white;
+}
+
+/*Selector ID*/
+#head{
+    background-color: green;
+    color: white;
+}
+
+/*Selector Universal*/
+*{
+    background-color: yellow;
+    color: black;
+}
